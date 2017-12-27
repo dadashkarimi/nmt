@@ -1,0 +1,7 @@
+<parameters>
+<index>index/</index>
+<textQuery>query.txt</textQuery>
+<trecFormat>true</trecFormat>
+<count>1000</count>
+<resultFile>result.txt</resultFile>
+</parameters>

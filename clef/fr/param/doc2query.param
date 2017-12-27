@@ -1,0 +1,6 @@
+<parameters>
+  <docFormat>trec</docFormat>
+  <outputFile>filename</outputFile>
+  <!--stemmer>stemmername</stemmer-->
+  <!--stopwords>stopwordfile</stopwords-->
+</parameters>
